@@ -2772,7 +2772,7 @@
     <message key="xmlui.XMLWorkflow.selectSingleReviewer.singleUserReviewStep.singleuserreviewaction">Tarkasta syötetty aineisto</message>
 
     <message key="xmlui.XMLWorkflow.scoreReview.scoreReviewStep.claimaction">Pisteytä aineisto</message>
-    <message key="xmlui.XMLWorkflow.scoreReview.scoreReviewStep.scorereviewaction">Pisteytä aineisto/message>
+    <message key="xmlui.XMLWorkflow.scoreReview.scoreReviewStep.scorereviewaction">Pisteytä aineisto</message>
     <message key="xmlui.XMLWorkflow.scoreReview.scoreReviewStep">Pisteytä aineisto</message>
     
   </catalogue>
